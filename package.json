@@ -1,6 +1,6 @@
 {
   "name": "@adaas/a-folder",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The SDK to interact with the ADAAS A Folder Service and files in the ADAAS ecosystem",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
